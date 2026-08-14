@@ -1,16 +1,40 @@
-## Hi there 👋
+<table align="center">
+<tr>
 
-<!--
-**Eriikakl/Eriikakl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<td width="50%" valign="top">
+Hey there, I’m Eriika!
 
-Here are some ideas to get you started:
+#### What I'm up to
+ * Building **AI-driven workflow automation** 
+ * Developing a **full-stack e-commerce app**
+ * Currently working with **Python**, **LLMs**, **Java** and **Spring Boot**
+</td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<td width="50%" valign="top">
+<br>
+<img src="img/pic.png" alt="Profile image">
+</td>
+
+<td width="50%" valign="top">
+  
+```text
+
+
+Coding      ███████████░░░░░░░░░   55%
+Reading     ███████████░░░░░░░░░   55%
+Learning    ███████████████████░   99%
+Wondering   ███████████████░░░░░   75%
+Sleeping    █████░░░░░░░░░░░░░░░   25%
+Debugging   ████████████████████  100%
+```
+</td> </tr>
+</table>
+<p align="center">
+<sub>
+I guess you <b>could</b> say I'm turning ideas into more code than probably necessary.
+</sub>
+</p> 
+<p align="right">
+<br>
+<sub>🇫🇮 Project documentation is in Finnish.</sub>
+</p>
