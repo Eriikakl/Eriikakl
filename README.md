@@ -16,9 +16,9 @@ Feel free to check out my <a href="https://eriikakl.github.io/eriika-dev/">portf
 or take a look at my repositories below ↓
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 <br>
-<img src="img/pic.png" alt="Profile image">
+<img src="img/pic.png" alt="Profile image" width="75%">
 </td>
 </tr>
 </table>
